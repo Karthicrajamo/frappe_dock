@@ -1,0 +1,434 @@
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:35: DeprecationWarning: The Connection context manager is deprecated. Use the `connection` parameter instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:87: DeprecationWarning: The `get_current_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:35: DeprecationWarning: The Connection context manager is deprecated. Use the `connection` parameter instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:87: DeprecationWarning: The `get_current_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/botocore/httpsession.py:19: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:35: DeprecationWarning: The Connection context manager is deprecated. Use the `connection` parameter instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:87: DeprecationWarning: The `get_current_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:58: DeprecationWarning: The `push_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/workspaces/frappe_dock/frappe/frappe-bench/apps/frappe/frappe/utils/pdf.py:7: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion
+/workspaces/frappe_dock/frappe/frappe-bench/env/lib/python3.10/site-packages/rq/connections.py:72: DeprecationWarning: The `pop_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(

@@ -1,0 +1,62 @@
+2023-06-22 07:09:30,367 DEBUG cd frappe-bench && python3 -m venv env
+2023-06-22 07:09:34,544 DEBUG cd frappe-bench && /workspaces/frappe_dock/frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2023-06-22 07:09:37,064 DEBUG cd frappe-bench && /workspaces/frappe_dock/frappe/frappe-bench/env/bin/python -m pip install --quiet wheel
+2023-06-22 07:09:38,235 LOG Getting frappe
+2023-06-22 07:09:38,236 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git  --depth 1 --origin upstream
+2023-06-22 07:09:42,278 LOG Installing frappe
+2023-06-22 07:09:42,278 DEBUG cd /workspaces/frappe_dock/frappe/frappe-bench && /workspaces/frappe_dock/frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /workspaces/frappe_dock/frappe/frappe-bench/apps/frappe 
+2023-06-22 07:10:41,691 DEBUG cd /workspaces/frappe_dock/frappe/frappe-bench/apps/frappe && yarn install
+2023-06-22 07:11:00,973 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-06-22 07:11:00,976 DEBUG cd frappe-bench && bench build
+2023-06-22 07:11:01,276 INFO /home/frappe/.local/bin/bench build
+2023-06-22 07:11:22,284 LOG setting up backups
+2023-06-22 07:11:22,315 LOG backups were set up
+2023-06-22 07:11:22,315 INFO Bench frappe-bench initialized
+2023-06-22 07:35:37,674 INFO /home/frappe/.local/bin/bench set-config -g db_host mariadb
+2023-06-22 07:41:20,258 INFO /home/frappe/.local/bin/bench set-config -g redis_cache redis://redis-cache:6379
+2023-06-22 07:41:40,021 INFO /home/frappe/.local/bin/bench set-config -g redis_cache redis://redis-queue:6379
+2023-06-22 07:42:01,592 INFO /home/frappe/.local/bin/bench set-config -g redis_queue redis://redis-queue:6379
+2023-06-22 07:42:08,030 INFO /home/frappe/.local/bin/bench set-config -g redis_cache redis://redis-cache:6379
+2023-06-22 07:42:52,732 INFO /home/frappe/.local/bin/bench set-config -g redis_socketio redis://redis-socketio:6379
+2023-06-22 07:49:06,053 INFO /home/frappe/.local/bin/bench new-site demo --no-mariadb-socket
+2023-06-22 07:49:25,425 INFO /home/frappe/.local/bin/bench new-site demo --no-mariadb-socket
+2023-06-22 07:49:56,995 INFO /home/frappe/.local/bin/bench new-site dem --no-mariadb-socket
+2023-06-22 07:53:47,285 INFO /home/frappe/.local/bin/bench set-config developer_mode 1
+2023-06-22 07:54:12,690 INFO /home/frappe/.local/bin/bench --site dem set-config developer_mode 1
+2023-06-22 07:55:08,225 INFO /home/frappe/.local/bin/bench get-app --bench version-13 erpnext
+2023-06-22 07:55:08,232 WARNING /home/frappe/.local/bin/bench get-app --bench version-13 erpnext executed with exit code 2
+2023-06-22 07:56:29,058 INFO /home/frappe/.local/bin/bench drop-site demo --no-backup
+2023-06-22 07:59:10,508 INFO /home/frappe/.local/bin/bench get-app version-13 erpnext
+2023-06-22 07:59:10,905 LOG Getting erpnext
+2023-06-22 07:59:10,905 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git  --depth 1 --origin upstream
+2023-06-22 07:59:16,908 LOG Installing erpnext
+2023-06-22 07:59:17,062 DEBUG cd /workspaces/frappe_dock/frappe/frappe-bench && /workspaces/frappe_dock/frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /workspaces/frappe_dock/frappe/frappe-bench/apps/erpnext 
+2023-06-22 07:59:33,080 DEBUG cd /workspaces/frappe_dock/frappe/frappe-bench/apps/erpnext && yarn install
+2023-06-22 07:59:33,553 DEBUG bench build --app erpnext
+2023-06-22 07:59:33,673 INFO /home/frappe/.local/bin/bench build --app erpnext
+2023-06-22 07:59:37,303 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-06-22 08:00:27,738 INFO /home/frappe/.local/bin/bench start
+2023-06-22 08:00:28,148 INFO /home/frappe/.local/bin/bench schedule
+2023-06-22 08:00:28,171 INFO /home/frappe/.local/bin/bench worker
+2023-06-22 08:00:28,245 INFO /home/frappe/.local/bin/bench serve --port 8000
+2023-06-22 08:00:28,254 INFO /home/frappe/.local/bin/bench watch
+2023-06-22 08:03:22,201 INFO /home/frappe/.local/bin/bench start
+2023-06-22 08:03:22,544 INFO /home/frappe/.local/bin/bench watch
+2023-06-22 08:03:22,557 INFO /home/frappe/.local/bin/bench worker
+2023-06-22 08:03:22,563 INFO /home/frappe/.local/bin/bench schedule
+2023-06-22 08:03:22,657 INFO /home/frappe/.local/bin/bench serve --port 8000
+2023-06-22 08:10:13,904 INFO /home/frappe/.local/bin/bench new-app play
+2023-06-22 08:10:13,909 LOG creating new app play
+2023-06-22 08:10:59,394 LOG Installing play
+2023-06-22 08:10:59,395 DEBUG cd /workspaces/frappe_dock/frappe/frappe-bench && /workspaces/frappe_dock/frappe/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /workspaces/frappe_dock/frappe/frappe-bench/apps/play 
+2023-06-22 08:11:01,286 DEBUG bench build --app play
+2023-06-22 08:11:01,408 INFO /home/frappe/.local/bin/bench build --app play
+2023-06-22 08:11:03,650 WARNING restart failed: Couldn't find supervisorctl in PATH
+2023-06-22 08:11:40,139 INFO /home/frappe/.local/bin/bench build --app play
+2023-06-22 08:12:01,219 INFO /home/frappe/.local/bin/bench start
+2023-06-22 08:12:01,566 INFO /home/frappe/.local/bin/bench serve --port 8000
+2023-06-22 08:12:01,600 INFO /home/frappe/.local/bin/bench worker
+2023-06-22 08:12:01,609 INFO /home/frappe/.local/bin/bench watch
+2023-06-22 08:12:01,642 INFO /home/frappe/.local/bin/bench schedule
+2023-06-22 08:13:13,787 INFO /home/frappe/.local/bin/bench build --app play
+2023-06-22 08:18:24,796 INFO /home/frappe/.local/bin/bench --site dem install-app play
